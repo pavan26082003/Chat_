@@ -1,0 +1,141 @@
+
+.main{
+    margin: 10%;
+    background-color: rgb(228, 220, 210);
+    border: 5px solid black;
+    width: 50%;
+    height: 80vh;
+    border-radius: 10%;
+    
+}
+#arrow{
+    margin-top: 10%;
+    
+}
+.left{
+    display: flex;
+}
+.nav{
+    display: flex;
+    background-color: #6511;
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+}
+#dp{
+    border-radius: 50px;
+    width: 20%;
+    height: auto;
+    margin: 3% 3% 2% 0% ;
+    
+}
+#name{
+   margin-top: 10%;
+    
+}
+.right{
+    display: flex;
+    
+}
+
+#video{
+   font-size: large;
+   margin: 1rem;
+
+}
+#call{
+    font-size: large;
+    margin: 1rem;
+}
+
+
+/* msg box */
+
+.msgbox{
+    
+    background-color: bisque;
+    height: 60vh;
+    overflow: auto;
+    scrollbar-width: none;
+    
+}
+.chatright{
+    text-align: right;
+    
+   
+    
+}
+
+p{
+    
+    background-color: pink;
+    width: 40%;
+    margin: auto;
+    position: sticky;
+    top: 10px;
+    text-align: center;
+}
+#right{
+    margin: 10px;
+background-color: aliceblue;
+    color: rgb(191, 84, 84);
+    
+
+}
+
+.chatleft{
+    margin: 10px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* foter  */
+
+.search{
+    display: flex;
+    
+    width: 90%;
+    margin: 2%;
+
+}
+.search i{
+    margin: 0px 4px ;
+}
+
+
+#search{
+    border-radius: 30px;
+    border: 1px solid black;
+    margin: 0px 8px ;
+}
+#phone-btn{
+    display: flex;
+   
+    
+}
+
+#phone-btn i{
+  font-size: 25px;
+  margin: 50px;
+  margin-top: 6%;
+}
+.footer{
+    display: flex;
+    width: 100%;
+    height: auto;
+
+
+    
+    background-color: #6511;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+}
